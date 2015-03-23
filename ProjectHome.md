@@ -1,0 +1,1 @@
+foss eMusic is an Android app. It allows eMusic.com subcribers to browse and search the eMusic.com collection and download their purchased music/audiobooks directly to their Android phones. This app is not associated with eMusic.com in any way. Please do not report bugs to eMusic.com. Bugs should be reported on this launchpad page.
